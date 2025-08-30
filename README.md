@@ -20,7 +20,7 @@
 ## Introduction
 As someone passionate about software development and the stock market, I embarked on an exciting journey to create StockSage, a Zerodha clone using the MERN stack. This project allowed me to blend my interests and enhance my skills in full-stack development.
 
-## Kite-Demo
+## Dashboard-Demo
 https://github.com/user-attachments/assets/3176d420-ef5d-4d83-858c-08ba0f191441
 
 ## Zerodha-Landing-Page
@@ -58,12 +58,12 @@ To get started with StockSage locally, follow these steps:
    cd ..
    cd frontend
    npm install
-   npm run dev
+   npm start
    
    cd ..
-   cd kite
+   cd dashboard
    npm install
-   npm run dev
+   npm start
 
 # Future Improvements:
 I am looking forward to enhancing StockSage based on user feedback. Suggestions for new features are always welcome!
