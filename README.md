@@ -1,8 +1,7 @@
 # StockSage: Your Stock Trading Companion! 📈
 
 
-![download](https://github.com/user-attachments/assets/67c3787c-50dd-486c-8d2a-1830b3069f80)
-
+![logo_mern](https://github.com/user-attachments/assets/4960c841-f240-4425-8ad3-8ac9ba3cadcd)
 
 
 
@@ -21,10 +20,12 @@
 As someone passionate about software development and the stock market, I embarked on an exciting journey to create StockSage, a Zerodha clone using the MERN stack. This project allowed me to blend my interests and enhance my skills in full-stack development.
 
 ## Dashboard-Demo
-https://github.com/user-attachments/assets/3176d420-ef5d-4d83-858c-08ba0f191441
+https://github.com/user-attachments/assets/3189a0e7-6c13-4988-8e89-0a099ee6b11c
+
+
 
 ## Zerodha-Landing-Page
-https://github.com/user-attachments/assets/5b1395c5-1719-4993-ba5e-ce3360e00b62
+https://github.com/user-attachments/assets/bd69cd4d-86be-49f4-b2f9-b85d3a4a25d4
 
 
 
@@ -47,7 +48,7 @@ https://github.com/user-attachments/assets/5b1395c5-1719-4993-ba5e-ce3360e00b62
 To get started with StockSage locally, follow these steps:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/StockSage.git
+   git clone https://github.com/yourusername/zerodha_app.git
    cd StockSage
 2. Install dependencies & Start the server:
    ```bash
